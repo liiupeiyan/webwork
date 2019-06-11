@@ -326,37 +326,24 @@ a{
 }
 .bot1{
 	margin-top: 27px;  
-	width: 550px;
-	height: 20px;
-	margin: 0 auto;
+	width: 600px;
+	height: 30px;
+	margin-left: 110px; 
 }
 .bot1 li{
 	margin-bottom: 1px; 
 }
-.bot2{
-	width: 500px;
-	height: 30px;
-	margin: 0 auto;
-}
-.bot2 p{
-	float: left;
-}
+
 .bottom-down a{
-	margin-right: 9px; 
+	margin-right: 14px; 
 	font-size: 14px;
 	color: #9e9e9e;
 	float: left;
 }
 .bottom-down p{
-	margin-right: 13px; 
+	margin-right: 18px; 
 	color: #a4a4a4;
 	float: left;
-}
-.bottom-down span{
-	font-size: 14px;
-/*	margin-right: 0px; */
-	color: #a4a4a4;
-	/*float: left;*/
 }
 .picp1{
 	font-size: 16px;
@@ -366,4 +353,15 @@ a{
 .picp2{
 	font-size: 15px;
 	color: #333;
+}
+.bot2{
+	width: 690px;
+	height: 30px;
+	margin-left: 110px;
+}
+.bot2 p{
+	float: left;
+	font-size: 14px;
+	margin-left: -10px; 
+
 }
